@@ -1,5 +1,5 @@
 <h1>Tic-Tac-Toe using tkinter module</h1></br>
-![image](https://user-images.githubusercontent.com/70832614/194729865-b1526cea-91a5-4a48-94bb-80d7c6ef0de6.png)
+<img src="https://www.clipartmax.com/png/small/280-2801688_tic-tac-toe-tic-tac-toe-gif.png" alt="Tic Tac Toe - Tic Tac Toe Gif @clipartmax.com">
 
 
 <h3>📌This is a basic project which is done using the "tkinter" module in python.</h3>
