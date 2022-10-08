@@ -1,4 +1,4 @@
-<h2>tic-tac-toe using<h2><h1>tkinter module</h2><br>
+<h2>tic-tac-toe using<h2><b>tkinter module</b><br>
 
 
 <h3>📌This project is done using the "tkinter" module in python.</h3>
